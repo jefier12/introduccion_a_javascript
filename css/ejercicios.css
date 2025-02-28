@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.ejercicio__contenedor{
+  height: 100vh;
+  width: 100vw;
+  font-family: "Teko", serif;
+  background-color: #08ACD5;
+  text-align: center;
+  justify-content: center;
+}
+
+.ejercicio__titulo{
+  background-color: #7B2941;
+  color:#FFFFFF;
+}
+
+.ejercicio__texto{
+  background-color: #C5395A;
+  color:#FFFFFF;
+}
