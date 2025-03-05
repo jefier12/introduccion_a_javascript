@@ -20,6 +20,18 @@
 }
 
 .ejercicio__texto{
+  width: 1000px;
+  font-size: 15px;
   background-color: #C5395A;
   color:#FFFFFF;
 }
+
+/* .botones{
+}
+.botones__contenedor{
+}
+.botones__lista{
+}
+.botones__link{
+
+} */
