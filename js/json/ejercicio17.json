@@ -1,0 +1,7 @@
+{
+    "usuarios": [
+        { "id": 1, "nombre": "Juan", "edad": 25, "ciudad": "Madrid" },
+        { "id": 2, "nombre": "Ana", "edad": 30, "ciudad": "Barcelona" },
+        { "id": 3, "nombre": "Luis", "edad": 28, "ciudad": "Valencia" }
+    ]
+}

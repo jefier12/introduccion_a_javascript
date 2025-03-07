@@ -7,3 +7,6 @@ const miPromesa = new Promise((_, rechazar) => {
 miPromesa
     .then(console.log)
     .catch(error => console.log("Error:", error));
+
+
+

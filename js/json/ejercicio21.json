@@ -1,0 +1,7 @@
+{
+    "usuarios": [
+        { "carrera": "adso", "nombre": "Juan", "edad": 25 },
+        { "carrera": "hsq", "nombre": "Ana", "edad": 30 },
+        { "carrear": "adsi", "nombre": "Luis", "edad": 28 }
+    ]
+}
